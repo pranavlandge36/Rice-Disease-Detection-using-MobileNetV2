@@ -117,16 +117,9 @@ Softmax Output Layer (3 Classes)
 
 ## 📈 Training Curves
 
-(Add your accuracy/loss graph here)
 
-```
-images/
-    training_curve.png
-```
-
-```markdown
 ![Training Curve](images/training_curve.png)
-```
+
 
 ---
 
@@ -140,7 +133,6 @@ Rice-Leaf-Disease-Classification/
 ├── requirements.txt
 ├── images/
 │   └── training_curve.png
-└── models/
 ```
 
 ---
